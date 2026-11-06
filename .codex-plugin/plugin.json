@@ -1,0 +1,11 @@
+{
+  "name": "herdr-app-traex",
+  "version": "0.1.0",
+  "description": "Report TRAE CLI lifecycle state to Herdr App through OSC 7501",
+  "hooks": "./hooks/hooks.json",
+  "interface": {
+    "displayName": "Herdr App for TRAE CLI",
+    "shortDescription": "Show TRAE CLI agent status in Herdr App",
+    "category": "Developer Tools"
+  }
+}
